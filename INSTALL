@@ -1,0 +1,9 @@
+Building Watcoin
+
+See doc/readme-qt.rst for instructions on building Watcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Watcoin.
+
+See doc/build-*.txt for instructions on building lemanumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Watcoin.
