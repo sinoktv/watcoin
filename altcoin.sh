@@ -41,7 +41,7 @@ echo Step 2: replace locale text
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_vi_VN.ts
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_vi.ts
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_uk.ts
-	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_ur_PK.ts:
+	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_ur_PK.ts
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_tr.ts
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_th_TH.ts
 	sed -i -e "s/Watcoin/$AnyCoin/g" src/qt/locale/bitcoin_sv.ts
